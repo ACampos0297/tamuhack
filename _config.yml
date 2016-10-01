@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Hack on GitHub Pages
 description: >
-  This site will get you started hacking with GitHub Pages.
-baseurl: "/tamuhack" # the subpath of your site
+  Doge.
+baseurl: "/huehue" # the subpath of your site
 url: "https://acampos0297.github.io"
 email: doge
 github_username:  doge
