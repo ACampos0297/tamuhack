@@ -16,7 +16,6 @@
 title: Hack on GitHub Pages
 description: >
   Doge.
-baseurl: "/tamuhack" # the subpath of your site
 url: "https://acampos0297.github.io"
 email: doge
 github_username:  doge
